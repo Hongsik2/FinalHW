@@ -85,7 +85,7 @@ $$
 - x의 범위는 -3에서 3까지로 했다.
 - T의 값은 100, a의 값은 0.99, 초기해는 랜덤으로 정했다.
 
-![niter결정](user-images.githubusercontent.com/80087069/121693614-44d43e00-cb04-11eb-9d20-9f1bd7069821.png)
+![niter결정](https://user-images.githubusercontent.com/80087069/121693614-44d43e00-cb04-11eb-9d20-9f1bd7069821.png)
 
 - niter 값은 온도가 약 0.1도 까지 내려가게 되는 값인 700으로 했다.
 - Kt의 값은 T가 작아지면 커지게 설정했다.
